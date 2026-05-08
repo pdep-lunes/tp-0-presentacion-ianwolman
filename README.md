@@ -6,3 +6,5 @@
 
 Me gusta mucho el futbol y la formula 1, tengo un perro llamado Rocky y amo cocinar.
 
+## Mi foto
+![Mi foto](174467325448.jpeg)
